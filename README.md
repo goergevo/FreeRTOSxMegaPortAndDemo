@@ -1,5 +1,5 @@
-# FreeRTOSxMegaPortAndDemo
-FreeRTOS port for Atmel ATxmega CPUs
+# FreeRTOS XMega Port and Demo
+FreeRTOS port for Atmel XMega CPUs
 
 The version history copied from avrfreaks forum (http://legacy.avrfreaks.net):
 
